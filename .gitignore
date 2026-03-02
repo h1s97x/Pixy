@@ -1,0 +1,15 @@
+# 临时文件
+*.tmp
+*.temp
+
+# 缩略图
+*.thumb
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 大文件
+*.mp4
+*.avi
+*.mov
